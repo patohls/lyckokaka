@@ -1,0 +1,105 @@
+# Generella lyckokakor
+# Format:
+# Huvudtext | Förklarande text
+# Rader som börjar med # ignoreras.
+
+Du behöver inte göra allt perfekt idag. | Det räcker långt att du gör nästa sak med omtanke.
+Någon kommer att uppskatta ditt lugn idag. | Det märks mer än du tror när någon känner sig trygg omkring dig.
+Du gör större skillnad än du själv ser. | Många små handlingar påverkar människor varje dag.
+Det är okej att ta ett steg i taget. | Stora resultat byggs nästan alltid långsamt.
+Du behöver inte stressa för att vara värdefull. | Närvaro slår tempo oftare än man tror.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
+Kanske behöver du idag andas innan du stressar vidare. | Närvaro och omtanke betyder mycket för andra människor.
+Kom ihåg att vara stolt över det du redan klarat. | Det finns styrka i lugn och tydlighet.
+En bra sak att bära med sig idag är att påminna dig om att du räcker till. | Du gör redan mer bra än du själv ser.
+Du får gärna ta en kort paus utan dåligt samvete. | Det är inte alltid fart som skapar framsteg.
+Ta med dig detta in i dagen: göra något som ger energi tillbaka. | Det räcker långt att göra sitt bästa idag.
+Idag kan du ta en sak i taget. | Du behöver inte göra allt på en gång för att vara på rätt väg.
+Just idag får du vara lite snällare mot dig själv. | Det är ofta de små sakerna som gör störst skillnad.
+Påminn dig själv om att du kan släppa kravet på perfektion. | Människor omkring dig påverkas mer positivt av dig än du tror.
+Det är okej att tro mer på din egen förmåga. | Det är okej att stanna upp och hämta ny energi ibland.
+Ge dig själv tillåtelse att ge någon ett vänligt bemötande. | Du får vara människa även på stressiga dagar.
