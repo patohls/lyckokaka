@@ -1,0 +1,204 @@
+# Skriv en lyckokaka per rad.
+# Format:
+# Huvudtext | Förklarande text
+# Rader som börjar med # ignoreras.
+
+Idag kan ditt sätt att lyssna vara skillnaden kunden minns. | Ett lugnt svar, en följdfråga eller ett extra samtal kan bygga mer förtroende än vi tror.
+Gör det lite enklare för någon idag. | För en kund, en kollega eller en leverantör. Små förenklingar blir stora över tid.
+Rekommendera rätt, inte dyrast. | När kunden känner att vi står på deras sida bygger vi något som är starkare än en enskild order.
+Lös problemet hela vägen. | Det är lätt att svara på frågan. Det är mer CyberPhoto att se till att kunden verkligen kommer vidare.
+En tydligare formulering kan vara dagens bästa förbättring. | Tydlighet sparar tid, minskar oro och gör det enklare att fatta rätt beslut.
+Det lilla extra är sällan stort. Det märks ändå. | En uppföljning, ett tack, en personlig rad eller en extra kontroll kan göra hela skillnaden.
+Fråga dig: vad skaver för kunden just nu? | När vi hittar och tar bort friktion bygger vi CyberPhoto starkare, ett hinder i taget.
+Var den person du själv hade velat få hjälp av. | Kunnig, rak, varm och lösningsfokuserad. Det är en enkel men stark riktning.
+En bra affär är först bra när båda är nöjda. | Det är så vi bygger återkommande kunder, långsiktigt förtroende och ett starkare CyberPhoto.
+Idag kan du göra CyberPhoto lite mer självklart för någon. | No1 i kundens mind set byggs i många små möten, inte i ett enda stort ögonblick.
+Svara så att kunden känner sig trygg, inte bara informerad. | Fakta behövs. Men känslan av trygghet är ofta det kunden tar med sig.
+Se kollegan som nästa kund i kedjan. | När vi hjälper varandra bättre blir kundens upplevelse också bättre.
+Det vi accepterar i vardagen blir vår kultur. | Välj därför noggrannhet, värme och ansvar även i det lilla.
+Förtroende skapas i detaljerna. | En korrekt rad, ett välpackat paket, ett tydligt svar eller ett ärligt råd.
+Överträffa lite idag. | Inte stort. Inte krångligt. Bara lite mer omtanke än förväntat.
+Kunden minns känslan av att bli tagen på allvar. | Det kostar ofta lite tid, men skapar mycket värde.
+Gör något idag som gör morgondagen enklare. | En förbättrad rutin, ett tydligare svar eller ett borttaget onödigt steg.
+När vi bryr oss i det lilla syns det i det stora. | Det är så ett företag blir mer än en butik. Det blir ett förstahandsval.
+Ta bort en friktion innan den blir ett kundproblem. | Det bästa problemet är ofta det kunden aldrig behöver uppleva.
+Tacka någon som gjorde skillnad. | Det vi uppmärksammar får vi mer av.
+Idag kan du lyssnar en minut extra. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Idag kan du gör nästa steg tydligare. | Små förbättringar blir stora när många gör dem varje dag.
+Idag kan du ringer istället för att bara skriver. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Idag kan du skriver lite mer mänskligt. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Idag kan du tar bort ett onödigt hinder. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Idag kan du förklarar skillnaden mellan två val. | Det stärker både kundupplevelsen och stoltheten internt.
+Idag kan du dubbelkollar innan något går vidare. | Det gör vardagen lite enklare för både kund och kollega.
+Idag kan du ger ett ärligt råd. | Det är så vi bygger en kultur som märks i varje kontakt.
+Idag kan du följer upp innan någon behöver fråga. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Idag kan du hjälper en kollega framåt. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Idag kan du gör en rutin lite enklare. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Idag kan du ser kundens osäkerhet bakom frågan. | Små förbättringar blir stora när många gör dem varje dag.
+Idag kan du tar ansvar för helheten. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Idag kan du förenklar ett svar. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Idag kan du uppmärksammar någon som gjorde rätt. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Idag kan du hittar en friktion innan den blir ett problem. | Det stärker både kundupplevelsen och stoltheten internt.
+Idag kan du skapar trygghet före avslut. | Det gör vardagen lite enklare för både kund och kollega.
+Idag kan du gör informationen lite tydligare. | Det är så vi bygger en kultur som märks i varje kontakt.
+Idag kan du väljer omtanke före autopilot. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Idag kan du gör det lättare att säga ja. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Just idag kan du lyssnar en minut extra. | Små förbättringar blir stora när många gör dem varje dag.
+Just idag kan du gör nästa steg tydligare. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Just idag kan du ringer istället för att bara skriver. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Just idag kan du skriver lite mer mänskligt. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Just idag kan du tar bort ett onödigt hinder. | Det stärker både kundupplevelsen och stoltheten internt.
+Just idag kan du förklarar skillnaden mellan två val. | Det gör vardagen lite enklare för både kund och kollega.
+Just idag kan du dubbelkollar innan något går vidare. | Det är så vi bygger en kultur som märks i varje kontakt.
+Just idag kan du ger ett ärligt råd. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Just idag kan du följer upp innan någon behöver fråga. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Just idag kan du hjälper en kollega framåt. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Just idag kan du gör en rutin lite enklare. | Små förbättringar blir stora när många gör dem varje dag.
+Just idag kan du ser kundens osäkerhet bakom frågan. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Just idag kan du tar ansvar för helheten. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Just idag kan du förenklar ett svar. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Just idag kan du uppmärksammar någon som gjorde rätt. | Det stärker både kundupplevelsen och stoltheten internt.
+Just idag kan du hittar en friktion innan den blir ett problem. | Det gör vardagen lite enklare för både kund och kollega.
+Just idag kan du skapar trygghet före avslut. | Det är så vi bygger en kultur som märks i varje kontakt.
+Just idag kan du gör informationen lite tydligare. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Just idag kan du väljer omtanke före autopilot. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Just idag kan du gör det lättare att säga ja. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Den lilla skillnaden idag är att lyssnar en minut extra. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Den lilla skillnaden idag är att gör nästa steg tydligare. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Den lilla skillnaden idag är att ringer istället för att bara skriver. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Den lilla skillnaden idag är att skriver lite mer mänskligt. | Det stärker både kundupplevelsen och stoltheten internt.
+Den lilla skillnaden idag är att tar bort ett onödigt hinder. | Det gör vardagen lite enklare för både kund och kollega.
+Den lilla skillnaden idag är att förklarar skillnaden mellan två val. | Det är så vi bygger en kultur som märks i varje kontakt.
+Den lilla skillnaden idag är att dubbelkollar innan något går vidare. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Den lilla skillnaden idag är att ger ett ärligt råd. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Den lilla skillnaden idag är att följer upp innan någon behöver fråga. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Den lilla skillnaden idag är att hjälper en kollega framåt. | Små förbättringar blir stora när många gör dem varje dag.
+Den lilla skillnaden idag är att gör en rutin lite enklare. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Den lilla skillnaden idag är att ser kundens osäkerhet bakom frågan. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Den lilla skillnaden idag är att tar ansvar för helheten. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Den lilla skillnaden idag är att förenklar ett svar. | Det stärker både kundupplevelsen och stoltheten internt.
+Den lilla skillnaden idag är att uppmärksammar någon som gjorde rätt. | Det gör vardagen lite enklare för både kund och kollega.
+Den lilla skillnaden idag är att hittar en friktion innan den blir ett problem. | Det är så vi bygger en kultur som märks i varje kontakt.
+Den lilla skillnaden idag är att skapar trygghet före avslut. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Den lilla skillnaden idag är att gör informationen lite tydligare. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Den lilla skillnaden idag är att väljer omtanke före autopilot. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Den lilla skillnaden idag är att gör det lättare att säga ja. | Små förbättringar blir stora när många gör dem varje dag.
+Dagens möjlighet är att lyssnar en minut extra. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Dagens möjlighet är att gör nästa steg tydligare. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Dagens möjlighet är att ringer istället för att bara skriver. | Det stärker både kundupplevelsen och stoltheten internt.
+Dagens möjlighet är att skriver lite mer mänskligt. | Det gör vardagen lite enklare för både kund och kollega.
+Dagens möjlighet är att tar bort ett onödigt hinder. | Det är så vi bygger en kultur som märks i varje kontakt.
+Dagens möjlighet är att förklarar skillnaden mellan två val. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Dagens möjlighet är att dubbelkollar innan något går vidare. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Dagens möjlighet är att ger ett ärligt råd. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Dagens möjlighet är att följer upp innan någon behöver fråga. | Små förbättringar blir stora när många gör dem varje dag.
+Dagens möjlighet är att hjälper en kollega framåt. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Dagens möjlighet är att gör en rutin lite enklare. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Dagens möjlighet är att ser kundens osäkerhet bakom frågan. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Dagens möjlighet är att tar ansvar för helheten. | Det stärker både kundupplevelsen och stoltheten internt.
+Dagens möjlighet är att förenklar ett svar. | Det gör vardagen lite enklare för både kund och kollega.
+Dagens möjlighet är att uppmärksammar någon som gjorde rätt. | Det är så vi bygger en kultur som märks i varje kontakt.
+Dagens möjlighet är att hittar en friktion innan den blir ett problem. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Dagens möjlighet är att skapar trygghet före avslut. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Dagens möjlighet är att gör informationen lite tydligare. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Dagens möjlighet är att väljer omtanke före autopilot. | Små förbättringar blir stora när många gör dem varje dag.
+Dagens möjlighet är att gör det lättare att säga ja. | Det hjälper oss att bli det självklara valet i kundens mind set.
+På väg in i dagen kan du lyssnar en minut extra. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+På väg in i dagen kan du gör nästa steg tydligare. | Det stärker både kundupplevelsen och stoltheten internt.
+På väg in i dagen kan du ringer istället för att bara skriver. | Det gör vardagen lite enklare för både kund och kollega.
+På väg in i dagen kan du skriver lite mer mänskligt. | Det är så vi bygger en kultur som märks i varje kontakt.
+På väg in i dagen kan du tar bort ett onödigt hinder. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+På väg in i dagen kan du förklarar skillnaden mellan två val. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+På väg in i dagen kan du dubbelkollar innan något går vidare. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+På väg in i dagen kan du ger ett ärligt råd. | Små förbättringar blir stora när många gör dem varje dag.
+På väg in i dagen kan du följer upp innan någon behöver fråga. | Det hjälper oss att bli det självklara valet i kundens mind set.
+På väg in i dagen kan du hjälper en kollega framåt. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+På väg in i dagen kan du gör en rutin lite enklare. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+På väg in i dagen kan du ser kundens osäkerhet bakom frågan. | Det stärker både kundupplevelsen och stoltheten internt.
+På väg in i dagen kan du tar ansvar för helheten. | Det gör vardagen lite enklare för både kund och kollega.
+På väg in i dagen kan du förenklar ett svar. | Det är så vi bygger en kultur som märks i varje kontakt.
+På väg in i dagen kan du uppmärksammar någon som gjorde rätt. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+På väg in i dagen kan du hittar en friktion innan den blir ett problem. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+På väg in i dagen kan du skapar trygghet före avslut. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+På väg in i dagen kan du gör informationen lite tydligare. | Små förbättringar blir stora när många gör dem varje dag.
+På väg in i dagen kan du väljer omtanke före autopilot. | Det hjälper oss att bli det självklara valet i kundens mind set.
+På väg in i dagen kan du gör det lättare att säga ja. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Mot 2030 bygger vi CyberPhoto när vi lyssnar en minut extra. | Det stärker både kundupplevelsen och stoltheten internt.
+Mot 2030 bygger vi CyberPhoto när vi gör nästa steg tydligare. | Det gör vardagen lite enklare för både kund och kollega.
+Mot 2030 bygger vi CyberPhoto när vi ringer istället för att bara skriver. | Det är så vi bygger en kultur som märks i varje kontakt.
+Mot 2030 bygger vi CyberPhoto när vi skriver lite mer mänskligt. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Mot 2030 bygger vi CyberPhoto när vi tar bort ett onödigt hinder. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Mot 2030 bygger vi CyberPhoto när vi förklarar skillnaden mellan två val. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Mot 2030 bygger vi CyberPhoto när vi dubbelkollar innan något går vidare. | Små förbättringar blir stora när många gör dem varje dag.
+Mot 2030 bygger vi CyberPhoto när vi ger ett ärligt råd. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Mot 2030 bygger vi CyberPhoto när vi följer upp innan någon behöver fråga. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Mot 2030 bygger vi CyberPhoto när vi hjälper en kollega framåt. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+Mot 2030 bygger vi CyberPhoto när vi gör en rutin lite enklare. | Det stärker både kundupplevelsen och stoltheten internt.
+Mot 2030 bygger vi CyberPhoto när vi ser kundens osäkerhet bakom frågan. | Det gör vardagen lite enklare för både kund och kollega.
+Mot 2030 bygger vi CyberPhoto när vi tar ansvar för helheten. | Det är så vi bygger en kultur som märks i varje kontakt.
+Mot 2030 bygger vi CyberPhoto när vi förenklar ett svar. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+Mot 2030 bygger vi CyberPhoto när vi uppmärksammar någon som gjorde rätt. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+Mot 2030 bygger vi CyberPhoto när vi hittar en friktion innan den blir ett problem. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+Mot 2030 bygger vi CyberPhoto när vi skapar trygghet före avslut. | Små förbättringar blir stora när många gör dem varje dag.
+Mot 2030 bygger vi CyberPhoto när vi gör informationen lite tydligare. | Det hjälper oss att bli det självklara valet i kundens mind set.
+Mot 2030 bygger vi CyberPhoto när vi väljer omtanke före autopilot. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+Mot 2030 bygger vi CyberPhoto när vi gör det lättare att säga ja. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+No1 i kundens mind set börjar när vi lyssnar en minut extra. | Det gör vardagen lite enklare för både kund och kollega.
+No1 i kundens mind set börjar när vi gör nästa steg tydligare. | Det är så vi bygger en kultur som märks i varje kontakt.
+No1 i kundens mind set börjar när vi ringer istället för att bara skriver. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+No1 i kundens mind set börjar när vi skriver lite mer mänskligt. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+No1 i kundens mind set börjar när vi tar bort ett onödigt hinder. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+No1 i kundens mind set börjar när vi förklarar skillnaden mellan två val. | Små förbättringar blir stora när många gör dem varje dag.
+No1 i kundens mind set börjar när vi dubbelkollar innan något går vidare. | Det hjälper oss att bli det självklara valet i kundens mind set.
+No1 i kundens mind set börjar när vi ger ett ärligt råd. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+No1 i kundens mind set börjar när vi följer upp innan någon behöver fråga. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+No1 i kundens mind set börjar när vi hjälper en kollega framåt. | Det stärker både kundupplevelsen och stoltheten internt.
+No1 i kundens mind set börjar när vi gör en rutin lite enklare. | Det gör vardagen lite enklare för både kund och kollega.
+No1 i kundens mind set börjar när vi ser kundens osäkerhet bakom frågan. | Det är så vi bygger en kultur som märks i varje kontakt.
+No1 i kundens mind set börjar när vi tar ansvar för helheten. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+No1 i kundens mind set börjar när vi förenklar ett svar. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+No1 i kundens mind set börjar när vi uppmärksammar någon som gjorde rätt. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+No1 i kundens mind set börjar när vi hittar en friktion innan den blir ett problem. | Små förbättringar blir stora när många gör dem varje dag.
+No1 i kundens mind set börjar när vi skapar trygghet före avslut. | Det hjälper oss att bli det självklara valet i kundens mind set.
+No1 i kundens mind set börjar när vi gör informationen lite tydligare. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+No1 i kundens mind set börjar när vi väljer omtanke före autopilot. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+No1 i kundens mind set börjar när vi gör det lättare att säga ja. | Det stärker både kundupplevelsen och stoltheten internt.
+En kund kan minnas att du lyssnar en minut extra. | Det är så vi bygger en kultur som märks i varje kontakt.
+En kund kan minnas att du gör nästa steg tydligare. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+En kund kan minnas att du ringer istället för att bara skriver. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+En kund kan minnas att du skriver lite mer mänskligt. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+En kund kan minnas att du tar bort ett onödigt hinder. | Små förbättringar blir stora när många gör dem varje dag.
+En kund kan minnas att du förklarar skillnaden mellan två val. | Det hjälper oss att bli det självklara valet i kundens mind set.
+En kund kan minnas att du dubbelkollar innan något går vidare. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+En kund kan minnas att du ger ett ärligt råd. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+En kund kan minnas att du följer upp innan någon behöver fråga. | Det stärker både kundupplevelsen och stoltheten internt.
+En kund kan minnas att du hjälper en kollega framåt. | Det gör vardagen lite enklare för både kund och kollega.
+En kund kan minnas att du gör en rutin lite enklare. | Det är så vi bygger en kultur som märks i varje kontakt.
+En kund kan minnas att du ser kundens osäkerhet bakom frågan. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+En kund kan minnas att du tar ansvar för helheten. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+En kund kan minnas att du förenklar ett svar. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+En kund kan minnas att du uppmärksammar någon som gjorde rätt. | Små förbättringar blir stora när många gör dem varje dag.
+En kund kan minnas att du hittar en friktion innan den blir ett problem. | Det hjälper oss att bli det självklara valet i kundens mind set.
+En kund kan minnas att du skapar trygghet före avslut. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+En kund kan minnas att du gör informationen lite tydligare. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+En kund kan minnas att du väljer omtanke före autopilot. | Det stärker både kundupplevelsen och stoltheten internt.
+En kund kan minnas att du gör det lättare att säga ja. | Det gör vardagen lite enklare för både kund och kollega.
+En kollega kan få en bättre dag om du lyssnar en minut extra. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+En kollega kan få en bättre dag om du gör nästa steg tydligare. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+En kollega kan få en bättre dag om du ringer istället för att bara skriver. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+En kollega kan få en bättre dag om du skriver lite mer mänskligt. | Små förbättringar blir stora när många gör dem varje dag.
+En kollega kan få en bättre dag om du tar bort ett onödigt hinder. | Det hjälper oss att bli det självklara valet i kundens mind set.
+En kollega kan få en bättre dag om du förklarar skillnaden mellan två val. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+En kollega kan få en bättre dag om du dubbelkollar innan något går vidare. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+En kollega kan få en bättre dag om du ger ett ärligt råd. | Det stärker både kundupplevelsen och stoltheten internt.
+En kollega kan få en bättre dag om du följer upp innan någon behöver fråga. | Det gör vardagen lite enklare för både kund och kollega.
+En kollega kan få en bättre dag om du hjälper en kollega framåt. | Det är så vi bygger en kultur som märks i varje kontakt.
+En kollega kan få en bättre dag om du gör en rutin lite enklare. | Det kräver inte alltid mer tid, bara lite mer närvaro.
+En kollega kan få en bättre dag om du ser kundens osäkerhet bakom frågan. | Det är så vi gör målbilden mot 2030 praktisk, en handling i taget.
+En kollega kan få en bättre dag om du tar ansvar för helheten. | Det är ofta där förtroendet byggs, i det lilla som kunden inte alltid förväntar sig.
+En kollega kan få en bättre dag om du förenklar ett svar. | Små förbättringar blir stora när många gör dem varje dag.
+En kollega kan få en bättre dag om du uppmärksammar någon som gjorde rätt. | Det hjälper oss att bli det självklara valet i kundens mind set.
+En kollega kan få en bättre dag om du hittar en friktion innan den blir ett problem. | Det visar att CyberPhoto är mer än en butik. Det visar att vi bryr oss.
+En kollega kan få en bättre dag om du skapar trygghet före avslut. | Det kan vara just den detaljen som gör att kunden kommer tillbaka.
+En kollega kan få en bättre dag om du gör informationen lite tydligare. | Det stärker både kundupplevelsen och stoltheten internt.
+En kollega kan få en bättre dag om du väljer omtanke före autopilot. | Det gör vardagen lite enklare för både kund och kollega.
